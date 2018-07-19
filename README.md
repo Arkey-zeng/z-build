@@ -1,2 +1,2 @@
-# z-build-cli
+# z-build
 a personal cli
